@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>buttons/add_file.png</file>
+        <file>buttons/background.png</file>
+        <file>buttons/close.png</file>
+        <file>buttons/favorite.png</file>
+        <file>buttons/history.png</file>
+        <file>buttons/logo.png</file>
+        <file>buttons/loop.png</file>
+        <file>buttons/next.png</file>
+        <file>buttons/non_favorite.png</file>
+        <file>buttons/pause.png</file>
+        <file>buttons/play.png</file>
+        <file>buttons/playloop.png</file>
+        <file>buttons/previous.png</file>
+        <file>buttons/volumn.png</file>
+        <file>buttons/playlist.png</file>
+        <file>buttons/haveplayed.png</file>
+        <file>buttons/random.png</file>
+        <file>slider2.qss</file>
+        <file>slider3.qss</file>
+        <file>Style.qss</file>
+        <file>Style2.qss</file>
+        <file>Style3.qss</file>
+    </qresource>
+</RCC>
